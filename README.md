@@ -1,3 +1,3 @@
 # WomenDay
-Link web demo: https://toofdepzaivcl.gihub.io/
+Link web demo: https://toofdepzaivcl.github.io/Womenday/
 
